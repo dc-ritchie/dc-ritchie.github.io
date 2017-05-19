@@ -1,0 +1,180 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495156209306">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="927421" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="clubasset-1.svg" crc="221101741" seo="true" mt="1495123414000"/>
+    <file name="clubasset-2.svg" crc="3805155924" seo="true" mt="1495123414000"/>
+    <file name="clubasset-3.svg" crc="122460533" seo="true" mt="1495123415000"/>
+    <file name="clubasset-4.svg" crc="308480348" seo="true" mt="1495123415000"/>
+    <file name="clubasset-5.svg" crc="3999993670" seo="true" mt="1495123416000"/>
+    <file name="clubasset-6.svg" crc="4763277" seo="true" mt="1495123416000"/>
+    <file name="clubasset-7.svg" crc="367951359" seo="true" mt="1495123417000"/>
+    <file name="clubasset-8.svg" crc="198478333" seo="true" mt="1495123417000"/>
+    <file name="clubasset-9.svg" crc="236347460" seo="true" mt="1495123418000"/>
+    <file name="clubasset-10.svg" crc="3977958279" seo="true" mt="1495123419000"/>
+    <file name="clubasset-11.svg" crc="4291143654" seo="true" mt="1495123419000"/>
+    <file name="clubasset-12.svg" crc="412838181" seo="true" mt="1495123420000"/>
+    <file name="clubasset-13.svg" crc="4174989478" seo="true" mt="1495123422000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="clubasset-68b.svg" crc="228569847" seo="true" ref="phone>club-a">
+      <caption webpage="club-a" alt=""/>
+    </file>
+    <file name="clubasset 68b_poster_.png" crc="4149654795" ref="phone>club-a"/>
+    <file name="club-1b.svg" crc="3919000097" seo="true" ref="phone>club-a">
+      <caption webpage="club-a" alt=""/>
+    </file>
+    <file name="club 1b_poster_.png" crc="382922559" ref="phone>club-a"/>
+    <file name="clubasset-2.svg" crc="3805155924" seo="true" ref="phone>club-2">
+      <caption webpage="club-2" alt=""/>
+    </file>
+    <file name="clubasset 2_poster_.png" crc="3762391403" ref="phone>club-2"/>
+    <file name="club-2b.svg" crc="143686823" seo="true" ref="phone>club-2">
+      <caption webpage="club-2" alt=""/>
+    </file>
+    <file name="club 2b_poster_.png" crc="4234640891" ref="phone>club-2"/>
+    <file name="clubasset-3.svg" crc="122460533" seo="true" ref="phone>club-3">
+      <caption webpage="club-3" alt=""/>
+    </file>
+    <file name="clubasset 3_poster_.png" crc="509327961" ref="phone>club-3"/>
+    <file name="club-3b.svg" crc="192674774" seo="true" ref="phone>club-3">
+      <caption webpage="club-3" alt=""/>
+    </file>
+    <file name="club 3b_poster_.png" crc="312340073" ref="phone>club-3"/>
+    <file name="clubasset-4.svg" crc="308480348" seo="true" ref="phone>club-4">
+      <caption webpage="club-4" alt=""/>
+    </file>
+    <file name="clubasset 4_poster_.png" crc="8537449" ref="phone>club-4"/>
+    <file name="club-4b.svg" crc="4117838581" seo="true" ref="phone>club-4">
+      <caption webpage="club-4" alt=""/>
+    </file>
+    <file name="club 4b_poster_.png" crc="193245254" ref="phone>club-4"/>
+    <file name="clubasset-5.svg" crc="3999993670" seo="true" ref="phone>club-5">
+      <caption webpage="club-5" alt=""/>
+    </file>
+    <file name="clubasset 5_poster_.png" crc="381444631" ref="phone>club-5"/>
+    <file name="club-5b.svg" crc="122396757" seo="true" ref="phone>club-5">
+      <caption webpage="club-5" alt=""/>
+    </file>
+    <file name="club 5b_poster_.png" crc="525773532" ref="phone>club-5"/>
+    <file name="clubasset-7.svg" crc="367951359" seo="true" ref="phone>club-7">
+      <caption webpage="club-7" alt=""/>
+    </file>
+    <file name="clubasset 7_poster_.png" crc="313850574" ref="phone>club-7"/>
+    <file name="club-7b.svg" crc="3905303156" seo="true" ref="phone>club-7">
+      <caption webpage="club-7" alt=""/>
+    </file>
+    <file name="club 7b_poster_.png" crc="215870637" ref="phone>club-7"/>
+    <file name="clubasset-8.svg" crc="198478333" seo="true" ref="phone>club-8">
+      <caption webpage="club-8" alt=""/>
+    </file>
+    <file name="clubasset 8_poster_.png" crc="4113590848" ref="phone>club-8"/>
+    <file name="club-8b.svg" crc="8939847" seo="true" ref="phone>club-8">
+      <caption webpage="club-8" alt=""/>
+    </file>
+    <file name="club 8b_poster_.png" crc="3782623745" ref="phone>club-8"/>
+    <file name="clubasset-6.svg" crc="4763277" seo="true" ref="phone>club-6">
+      <caption webpage="club-6" alt=""/>
+    </file>
+    <file name="clubasset 6_poster_.png" crc="286015209" ref="phone>club-6"/>
+    <file name="club-6b.svg" crc="4005229343" seo="true" ref="phone>club-6">
+      <caption webpage="club-6" alt=""/>
+    </file>
+    <file name="club 6b_poster_.png" crc="509047225" ref="phone>club-6"/>
+    <file name="clubasset-9.svg" crc="236347460" seo="true" ref="phone>club-9">
+      <caption webpage="club-9" alt=""/>
+    </file>
+    <file name="clubasset 9_poster_.png" crc="3985621725" ref="phone>club-9"/>
+    <file name="club-9b.svg" crc="76766056" seo="true" ref="phone>club-9">
+      <caption webpage="club-9" alt=""/>
+    </file>
+    <file name="club 9b_poster_.png" crc="116609207" ref="phone>club-9"/>
+    <file name="clubasset-12.svg" crc="412838181" seo="true" ref="phone>club-12">
+      <caption webpage="club-12" alt=""/>
+    </file>
+    <file name="clubasset 12_poster_.png" crc="3820693697" ref="phone>club-12"/>
+    <file name="club-12b.svg" crc="377977349" seo="true" ref="phone>club-12">
+      <caption webpage="club-12" alt=""/>
+    </file>
+    <file name="club 12b_poster_.png" crc="3835262238" ref="phone>club-12"/>
+    <file name="clubasset-11.svg" crc="4291143654" seo="true" ref="phone>club-11">
+      <caption webpage="club-11" alt=""/>
+    </file>
+    <file name="clubasset 11_poster_.png" crc="356317319" ref="phone>club-11"/>
+    <file name="club-11b.svg" crc="298175750" seo="true" ref="phone>club-11">
+      <caption webpage="club-11" alt=""/>
+    </file>
+    <file name="club 11b_poster_.png" crc="4292700863" ref="phone>club-11"/>
+    <file name="clubasset-10.svg" crc="3977958279" seo="true" ref="phone>club-10">
+      <caption webpage="club-10" alt=""/>
+    </file>
+    <file name="clubasset 10_poster_.png" crc="11610922" ref="phone>club-10"/>
+    <file name="club-10b.svg" crc="4238849639" seo="true" ref="phone>club-10">
+      <caption webpage="club-10" alt=""/>
+    </file>
+    <file name="club 10b_poster_.png" crc="3964366302" ref="phone>club-10"/>
+    <file name="clubasset-13.svg" crc="4174989478" seo="true" ref="phone>club-13">
+      <caption webpage="club-13" alt=""/>
+    </file>
+    <file name="clubasset 13_poster_.png" crc="392969227" ref="phone>club-13"/>
+    <file name="club-13b.svg" crc="4161786711" seo="true" ref="phone>club-13">
+      <caption webpage="club-13" alt=""/>
+    </file>
+    <file name="club 13b_poster_.png" crc="365047685" ref="phone>club-13"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="club.css" crc="4153378943" ref="phone>club"/>
+      <file name="club-11.css" crc="4165643495" ref="phone>club-11"/>
+      <file name="club-5.css" crc="4228958705" ref="phone>club-5"/>
+      <file name="untitled-30.css" crc="3884859691" ref="phone>untitled-30"/>
+      <file name="club-10.css" crc="3813619001" ref="phone>club-10"/>
+      <file name="club-7.css" crc="3951710851" ref="phone>club-7"/>
+      <file name="spade-1.css" crc="3884859691" ref="phone>spade-1"/>
+      <file name="club-13.css" crc="472950192" ref="phone>club-13"/>
+      <file name="club-8.css" crc="443907491" ref="phone>club-8"/>
+      <file name="club-a.css" crc="148013677" ref="phone>club-a"/>
+      <file name="index.css" crc="3867614829" ref="phone>index"/>
+      <file name="spade.css" crc="3884859691" ref="phone>spade"/>
+      <file name="club-6.css" crc="450538750" ref="phone>club-6"/>
+      <file name="club-2.css" crc="4117325879" ref="phone>club-2"/>
+      <file name="heart.css" crc="3884859691" ref="phone>heart"/>
+      <file name="club-9.css" crc="3918741763" ref="phone>club-9"/>
+      <file name="club-3.css" crc="3988893329" ref="phone>club-3"/>
+      <file name="diamond.css" crc="3884859691" ref="phone>diamond"/>
+      <file name="club-12.css" crc="46343201" ref="phone>club-12"/>
+      <file name="club-4.css" crc="321574929" ref="phone>club-4"/>
+    </folder>
+    <file name="spade.html" crc="4067505257" seo="true" mt="1495149291553" redirect="false"/>
+    <file name="heart.html" crc="309792469" seo="true" mt="1495133397770" redirect="false"/>
+    <file name="diamond.html" crc="4006767683" seo="true" mt="1495133397770" redirect="false"/>
+    <file name="club.html" crc="429116360" seo="true" mt="1495148808974" redirect="true"/>
+    <file name="spade-1.html" crc="379444499" seo="true" mt="1495133397770" redirect="false"/>
+    <file name="untitled-30.html" crc="464527951" seo="true" mt="1495133397770" redirect="false"/>
+    <file name="club-a.html" crc="3939125266" seo="true" mt="1495148587052" redirect="true"/>
+    <file name="club-2.html" crc="415618789" seo="true" mt="1495148613742" redirect="true"/>
+    <file name="club-3.html" crc="4213536799" seo="true" mt="1495148633740" redirect="true"/>
+    <file name="club-4.html" crc="201210127" seo="true" mt="1495148650956" redirect="true"/>
+    <file name="club-5.html" crc="3777588739" seo="true" mt="1495148669198" redirect="true"/>
+    <file name="club-7.html" crc="382379503" seo="true" mt="1495147320193" redirect="true"/>
+    <file name="club-8.html" crc="165323809" seo="true" mt="1495147355075" redirect="true"/>
+    <file name="club-6.html" crc="284748504" seo="true" mt="1495148767680" redirect="true"/>
+    <file name="club-9.html" crc="511209579" seo="true" mt="1495147391624" redirect="true"/>
+    <file name="club-12.html" crc="66258187" seo="true" mt="1495147532824" redirect="true"/>
+    <file name="club-11.html" crc="4124195544" seo="true" mt="1495147485631" redirect="true"/>
+    <file name="club-10.html" crc="3980217395" seo="true" mt="1495147439278" redirect="true"/>
+    <file name="club-13.html" crc="4283712416" seo="true" mt="1495148262851" redirect="true"/>
+    <file name="index.html" crc="3779349127" seo="true" mt="1495149328057" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="344263351" seo="true" mt="1495150533566" redirect="true"/>
+</manifest>
