@@ -1,0 +1,425 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495421232015">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="355990711" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="clubasset-1.svg" crc="221101741" seo="true" mt="1495123414000"/>
+    <file name="clubasset-2.svg" crc="3805155924" seo="true" mt="1495123414000"/>
+    <file name="clubasset-3.svg" crc="122460533" seo="true" mt="1495123415000"/>
+    <file name="clubasset-4.svg" crc="308480348" seo="true" mt="1495123415000"/>
+    <file name="clubasset-5.svg" crc="3999993670" seo="true" mt="1495123416000"/>
+    <file name="clubasset-6.svg" crc="4763277" seo="true" mt="1495123416000"/>
+    <file name="clubasset-7.svg" crc="367951359" seo="true" mt="1495123417000"/>
+    <file name="clubasset-8.svg" crc="198478333" seo="true" mt="1495123417000"/>
+    <file name="clubasset-9.svg" crc="236347460" seo="true" mt="1495123418000"/>
+    <file name="clubasset-10.svg" crc="3977958279" seo="true" mt="1495123419000"/>
+    <file name="clubasset-11.svg" crc="4291143654" seo="true" mt="1495123419000"/>
+    <file name="clubasset-12.svg" crc="412838181" seo="true" mt="1495123420000"/>
+    <file name="clubasset-13.svg" crc="4174989478" seo="true" mt="1495123422000"/>
+    <file name="diamasset-40.svg" crc="3857458057" seo="true" mt="1495125510000"/>
+    <file name="diamasset-41.svg" crc="156754080" seo="true" mt="1495125511000"/>
+    <file name="diamasset-42.svg" crc="4235645005" seo="true" mt="1495125511000"/>
+    <file name="diamasset-43.svg" crc="4018698390" seo="true" mt="1495125512000"/>
+    <file name="diamasset-44.svg" crc="4126087903" seo="true" mt="1495125512000"/>
+    <file name="diamasset-45.svg" crc="375201438" seo="true" mt="1495125513000"/>
+    <file name="diamasset-46.svg" crc="4062705047" seo="true" mt="1495125513000"/>
+    <file name="diamasset-47.svg" crc="490259502" seo="true" mt="1495125514000"/>
+    <file name="diamasset-48.svg" crc="4120853408" seo="true" mt="1495125515000"/>
+    <file name="diamasset-49.svg" crc="3821466259" seo="true" mt="1495125515000"/>
+    <file name="diamasset-50.svg" crc="4226218029" seo="true" mt="1495125516000"/>
+    <file name="diamasset-51.svg" crc="3827756914" seo="true" mt="1495125517000"/>
+    <file name="diamasset-52.svg" crc="321272963" seo="true" mt="1495125517000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>spade-1:phone>untitled-30:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="diamond_ic.svg" crc="508918978" seo="true" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+      <caption webpage="diamond-10" alt=""/>
+      <caption webpage="club-12" alt=""/>
+      <caption webpage="diamond-7" alt=""/>
+      <caption webpage="club-5" alt=""/>
+      <caption webpage="club-8" alt=""/>
+      <caption webpage="diamond-4" alt=""/>
+      <caption webpage="diamond-5" alt=""/>
+      <caption webpage="diamond-8" alt=""/>
+      <caption webpage="club-7" alt=""/>
+      <caption webpage="diamond-2" alt=""/>
+      <caption webpage="club-4" alt=""/>
+      <caption webpage="diamond-13" alt=""/>
+      <caption webpage="diamond-11" alt=""/>
+      <caption webpage="diamond-6" alt=""/>
+      <caption webpage="spade" alt=""/>
+      <caption webpage="club-3" alt=""/>
+      <caption webpage="club-a" alt=""/>
+      <caption webpage="diamond-3" alt=""/>
+      <caption webpage="club-2" alt=""/>
+      <caption webpage="club-13" alt=""/>
+      <caption webpage="diamond-12" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="club-9" alt=""/>
+      <caption webpage="diamond-9" alt=""/>
+      <caption webpage="diamond-a" alt=""/>
+      <caption webpage="club-10" alt=""/>
+      <caption webpage="heart" alt=""/>
+      <caption webpage="club-6" alt=""/>
+      <caption webpage="club" alt=""/>
+      <caption webpage="club-11" alt=""/>
+      <caption webpage="diamond" alt=""/>
+      <caption webpage="diamond" alt=""/>
+    </file>
+    <file name="diamond_ic_poster_.png" crc="200703320" ref="phone>spade"/>
+    <file name="spade_ic.svg" crc="4231181128" seo="true" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+      <caption webpage="diamond-10" alt=""/>
+      <caption webpage="club-12" alt=""/>
+      <caption webpage="diamond-7" alt=""/>
+      <caption webpage="club-5" alt=""/>
+      <caption webpage="club-8" alt=""/>
+      <caption webpage="diamond-4" alt=""/>
+      <caption webpage="diamond-5" alt=""/>
+      <caption webpage="diamond-8" alt=""/>
+      <caption webpage="club-7" alt=""/>
+      <caption webpage="diamond-2" alt=""/>
+      <caption webpage="club-4" alt=""/>
+      <caption webpage="diamond-13" alt=""/>
+      <caption webpage="diamond-11" alt=""/>
+      <caption webpage="diamond-6" alt=""/>
+      <caption webpage="spade" alt=""/>
+      <caption webpage="club-3" alt=""/>
+      <caption webpage="club-a" alt=""/>
+      <caption webpage="diamond-3" alt=""/>
+      <caption webpage="club-2" alt=""/>
+      <caption webpage="club-13" alt=""/>
+      <caption webpage="diamond-12" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="club-9" alt=""/>
+      <caption webpage="diamond-9" alt=""/>
+      <caption webpage="diamond-a" alt=""/>
+      <caption webpage="club-10" alt=""/>
+      <caption webpage="heart" alt=""/>
+      <caption webpage="club-6" alt=""/>
+      <caption webpage="club" alt=""/>
+      <caption webpage="club-11" alt=""/>
+      <caption webpage="diamond" alt=""/>
+    </file>
+    <file name="spade_ic_poster_.png" crc="420882948" ref="phone>spade"/>
+    <file name="heart_ic.svg" crc="3959436588" seo="true" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+      <caption webpage="diamond-10" alt=""/>
+      <caption webpage="club-12" alt=""/>
+      <caption webpage="diamond-7" alt=""/>
+      <caption webpage="club-5" alt=""/>
+      <caption webpage="club-8" alt=""/>
+      <caption webpage="diamond-4" alt=""/>
+      <caption webpage="diamond-5" alt=""/>
+      <caption webpage="diamond-8" alt=""/>
+      <caption webpage="club-7" alt=""/>
+      <caption webpage="diamond-2" alt=""/>
+      <caption webpage="club-4" alt=""/>
+      <caption webpage="diamond-13" alt=""/>
+      <caption webpage="diamond-11" alt=""/>
+      <caption webpage="diamond-6" alt=""/>
+      <caption webpage="spade" alt=""/>
+      <caption webpage="club-3" alt=""/>
+      <caption webpage="club-a" alt=""/>
+      <caption webpage="diamond-3" alt=""/>
+      <caption webpage="club-2" alt=""/>
+      <caption webpage="club-13" alt=""/>
+      <caption webpage="diamond-12" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="club-9" alt=""/>
+      <caption webpage="diamond-9" alt=""/>
+      <caption webpage="diamond-a" alt=""/>
+      <caption webpage="club-10" alt=""/>
+      <caption webpage="heart" alt=""/>
+      <caption webpage="club-6" alt=""/>
+      <caption webpage="club" alt=""/>
+      <caption webpage="club-11" alt=""/>
+      <caption webpage="diamond" alt=""/>
+    </file>
+    <file name="heart_ic_poster_.png" crc="3811158649" ref="phone>spade"/>
+    <file name="club_ic.svg" crc="133362557" seo="true" ref="phone>spade:phone>heart:phone>diamond:phone>club:phone>club-a:phone>club-2:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>index:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+      <caption webpage="diamond-10" alt=""/>
+      <caption webpage="club-12" alt=""/>
+      <caption webpage="diamond-7" alt=""/>
+      <caption webpage="club-5" alt=""/>
+      <caption webpage="club-8" alt=""/>
+      <caption webpage="diamond-4" alt=""/>
+      <caption webpage="diamond-5" alt=""/>
+      <caption webpage="diamond-8" alt=""/>
+      <caption webpage="club-7" alt=""/>
+      <caption webpage="diamond-2" alt=""/>
+      <caption webpage="club-4" alt=""/>
+      <caption webpage="diamond-13" alt=""/>
+      <caption webpage="diamond-11" alt=""/>
+      <caption webpage="diamond-6" alt=""/>
+      <caption webpage="spade" alt=""/>
+      <caption webpage="club-3" alt=""/>
+      <caption webpage="club-a" alt=""/>
+      <caption webpage="diamond-3" alt=""/>
+      <caption webpage="club-2" alt=""/>
+      <caption webpage="club-13" alt=""/>
+      <caption webpage="diamond-12" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="club-9" alt=""/>
+      <caption webpage="diamond-9" alt=""/>
+      <caption webpage="diamond-a" alt=""/>
+      <caption webpage="club-10" alt=""/>
+      <caption webpage="heart" alt=""/>
+      <caption webpage="club-6" alt=""/>
+      <caption webpage="club" alt=""/>
+      <caption webpage="club" alt=""/>
+      <caption webpage="club-11" alt=""/>
+      <caption webpage="diamond" alt=""/>
+    </file>
+    <file name="club_ic_poster_.png" crc="270882843" ref="phone>spade"/>
+    <file name="clubasset-68b.svg" crc="228569847" seo="true" ref="phone>club-a">
+      <caption webpage="club-a" alt=""/>
+    </file>
+    <file name="clubasset 68b_poster_.png" crc="4149654795" ref="phone>club-a"/>
+    <file name="club-1b.svg" crc="3919000097" seo="true" ref="phone>club-a:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+      <caption webpage="club-a" alt=""/>
+      <caption webpage="diamond-3" alt=""/>
+      <caption webpage="diamond-7" alt=""/>
+      <caption webpage="diamond-5" alt=""/>
+      <caption webpage="diamond-4" alt=""/>
+      <caption webpage="diamond-a" alt=""/>
+      <caption webpage="diamond-8" alt=""/>
+      <caption webpage="diamond-6" alt=""/>
+      <caption webpage="diamond-2" alt=""/>
+      <caption webpage="diamond-12" alt=""/>
+      <caption webpage="diamond-13" alt=""/>
+      <caption webpage="diamond-11" alt=""/>
+      <caption webpage="diamond-10" alt=""/>
+      <caption webpage="diamond-9" alt=""/>
+    </file>
+    <file name="club 1b_poster_.png" crc="382922559" ref="phone>club-a"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>club-a:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13"/>
+    <file name="clubasset-2.svg" crc="3805155924" seo="true" ref="phone>club-2">
+      <caption webpage="club-2" alt=""/>
+    </file>
+    <file name="clubasset 2_poster_.png" crc="3762391403" ref="phone>club-2"/>
+    <file name="club-2b.svg" crc="143686823" seo="true" ref="phone>club-2">
+      <caption webpage="club-2" alt=""/>
+    </file>
+    <file name="club 2b_poster_.png" crc="4234640891" ref="phone>club-2"/>
+    <file name="clubasset-3.svg" crc="122460533" seo="true" ref="phone>club-3">
+      <caption webpage="club-3" alt=""/>
+    </file>
+    <file name="clubasset 3_poster_.png" crc="509327961" ref="phone>club-3"/>
+    <file name="club-3b.svg" crc="192674774" seo="true" ref="phone>club-3">
+      <caption webpage="club-3" alt=""/>
+    </file>
+    <file name="club 3b_poster_.png" crc="312340073" ref="phone>club-3"/>
+    <file name="clubasset-4.svg" crc="308480348" seo="true" ref="phone>club-4">
+      <caption webpage="club-4" alt=""/>
+    </file>
+    <file name="clubasset 4_poster_.png" crc="8537449" ref="phone>club-4"/>
+    <file name="club-4b.svg" crc="4117838581" seo="true" ref="phone>club-4">
+      <caption webpage="club-4" alt=""/>
+    </file>
+    <file name="club 4b_poster_.png" crc="193245254" ref="phone>club-4"/>
+    <file name="clubasset-5.svg" crc="3999993670" seo="true" ref="phone>club-5">
+      <caption webpage="club-5" alt=""/>
+    </file>
+    <file name="clubasset 5_poster_.png" crc="381444631" ref="phone>club-5"/>
+    <file name="club-5b.svg" crc="122396757" seo="true" ref="phone>club-5">
+      <caption webpage="club-5" alt=""/>
+    </file>
+    <file name="club 5b_poster_.png" crc="525773532" ref="phone>club-5"/>
+    <file name="clubasset-7.svg" crc="367951359" seo="true" ref="phone>club-7">
+      <caption webpage="club-7" alt=""/>
+    </file>
+    <file name="clubasset 7_poster_.png" crc="313850574" ref="phone>club-7"/>
+    <file name="club-7b.svg" crc="3905303156" seo="true" ref="phone>club-7">
+      <caption webpage="club-7" alt=""/>
+    </file>
+    <file name="club 7b_poster_.png" crc="215870637" ref="phone>club-7"/>
+    <file name="clubasset-8.svg" crc="198478333" seo="true" ref="phone>club-8">
+      <caption webpage="club-8" alt=""/>
+    </file>
+    <file name="clubasset 8_poster_.png" crc="4113590848" ref="phone>club-8"/>
+    <file name="club-8b.svg" crc="8939847" seo="true" ref="phone>club-8">
+      <caption webpage="club-8" alt=""/>
+    </file>
+    <file name="club 8b_poster_.png" crc="3782623745" ref="phone>club-8"/>
+    <file name="clubasset-6.svg" crc="4763277" seo="true" ref="phone>club-6">
+      <caption webpage="club-6" alt=""/>
+    </file>
+    <file name="clubasset 6_poster_.png" crc="286015209" ref="phone>club-6"/>
+    <file name="club-6b.svg" crc="4005229343" seo="true" ref="phone>club-6">
+      <caption webpage="club-6" alt=""/>
+    </file>
+    <file name="club 6b_poster_.png" crc="509047225" ref="phone>club-6"/>
+    <file name="clubasset-9.svg" crc="236347460" seo="true" ref="phone>club-9">
+      <caption webpage="club-9" alt=""/>
+    </file>
+    <file name="clubasset 9_poster_.png" crc="3985621725" ref="phone>club-9"/>
+    <file name="club-9b.svg" crc="76766056" seo="true" ref="phone>club-9">
+      <caption webpage="club-9" alt=""/>
+    </file>
+    <file name="club 9b_poster_.png" crc="116609207" ref="phone>club-9"/>
+    <file name="clubasset-12.svg" crc="412838181" seo="true" ref="phone>club-12">
+      <caption webpage="club-12" alt=""/>
+    </file>
+    <file name="clubasset 12_poster_.png" crc="3820693697" ref="phone>club-12"/>
+    <file name="club-12b.svg" crc="377977349" seo="true" ref="phone>club-12">
+      <caption webpage="club-12" alt=""/>
+    </file>
+    <file name="club 12b_poster_.png" crc="3835262238" ref="phone>club-12"/>
+    <file name="u3918-4.png" crc="401004000" ref="phone>club-12"/>
+    <file name="clubasset-11.svg" crc="4291143654" seo="true" ref="phone>club-11">
+      <caption webpage="club-11" alt=""/>
+    </file>
+    <file name="clubasset 11_poster_.png" crc="356317319" ref="phone>club-11"/>
+    <file name="club-11b.svg" crc="298175750" seo="true" ref="phone>club-11">
+      <caption webpage="club-11" alt=""/>
+    </file>
+    <file name="club 11b_poster_.png" crc="4292700863" ref="phone>club-11"/>
+    <file name="clubasset-10.svg" crc="3977958279" seo="true" ref="phone>club-10">
+      <caption webpage="club-10" alt=""/>
+    </file>
+    <file name="clubasset 10_poster_.png" crc="11610922" ref="phone>club-10"/>
+    <file name="club-10b.svg" crc="4238849639" seo="true" ref="phone>club-10">
+      <caption webpage="club-10" alt=""/>
+    </file>
+    <file name="club 10b_poster_.png" crc="3964366302" ref="phone>club-10"/>
+    <file name="clubasset-13.svg" crc="4174989478" seo="true" ref="phone>club-13">
+      <caption webpage="club-13" alt=""/>
+    </file>
+    <file name="clubasset 13_poster_.png" crc="392969227" ref="phone>club-13"/>
+    <file name="club-13b.svg" crc="4161786711" seo="true" ref="phone>club-13">
+      <caption webpage="club-13" alt=""/>
+    </file>
+    <file name="club 13b_poster_.png" crc="365047685" ref="phone>club-13"/>
+    <file name="diamasset-40.svg" crc="3857458057" seo="true" ref="phone>diamond-a">
+      <caption webpage="diamond-a" alt=""/>
+    </file>
+    <file name="diamasset 40_poster_.png" crc="3865548998" ref="phone>diamond-a"/>
+    <file name="diamasset-41.svg" crc="156754080" seo="true" ref="phone>diamond-2">
+      <caption webpage="diamond-2" alt=""/>
+    </file>
+    <file name="diamasset 41_poster_.png" crc="4219420290" ref="phone>diamond-2"/>
+    <file name="diamasset-42.svg" crc="4235645005" seo="true" ref="phone>diamond-3">
+      <caption webpage="diamond-3" alt=""/>
+    </file>
+    <file name="diamasset 42_poster_.png" crc="353298222" ref="phone>diamond-3"/>
+    <file name="diamasset-43.svg" crc="4018698390" seo="true" ref="phone>diamond-4">
+      <caption webpage="diamond-4" alt=""/>
+    </file>
+    <file name="diamasset 43_poster_.png" crc="135463209" ref="phone>diamond-4"/>
+    <file name="diamasset-44.svg" crc="4126087903" seo="true" ref="phone>diamond-5">
+      <caption webpage="diamond-5" alt=""/>
+    </file>
+    <file name="diamasset 44_poster_.png" crc="4236959970" ref="phone>diamond-5"/>
+    <file name="diamasset-46.svg" crc="4062705047" seo="true" ref="phone>diamond-7">
+      <caption webpage="diamond-7" alt=""/>
+    </file>
+    <file name="diamasset 46_poster_.png" crc="4179219583" ref="phone>diamond-7"/>
+    <file name="diamasset-45.svg" crc="375201438" seo="true" ref="phone>diamond-6">
+      <caption webpage="diamond-6" alt=""/>
+    </file>
+    <file name="diamasset 45_poster_.png" crc="292594129" ref="phone>diamond-6"/>
+    <file name="diamasset-47.svg" crc="490259502" seo="true" ref="phone>diamond-8">
+      <caption webpage="diamond-8" alt=""/>
+    </file>
+    <file name="diamasset 47_poster_.png" crc="4113134429" ref="phone>diamond-8"/>
+    <file name="diamasset-48.svg" crc="4120853408" seo="true" ref="phone>diamond-9">
+      <caption webpage="diamond-9" alt=""/>
+    </file>
+    <file name="diamasset 48_poster_.png" crc="4219303736" ref="phone>diamond-9"/>
+    <file name="diamasset-49.svg" crc="3821466259" seo="true" ref="phone>diamond-10">
+      <caption webpage="diamond-10" alt=""/>
+    </file>
+    <file name="diamasset 49_poster_.png" crc="408822771" ref="phone>diamond-10"/>
+    <file name="diamasset-51.svg" crc="3827756914" seo="true" ref="phone>diamond-12">
+      <caption webpage="diamond-12" alt=""/>
+    </file>
+    <file name="diamasset 51_poster_.png" crc="4261713284" ref="phone>diamond-12"/>
+    <file name="diamasset-50.svg" crc="4226218029" seo="true" ref="phone>diamond-11">
+      <caption webpage="diamond-11" alt=""/>
+    </file>
+    <file name="diamasset 50_poster_.png" crc="4049775125" ref="phone>diamond-11"/>
+    <file name="diamasset-52.svg" crc="321272963" seo="true" ref="phone>diamond-13">
+      <caption webpage="diamond-13" alt=""/>
+    </file>
+    <file name="diamasset 52_poster_.png" crc="4138264469" ref="phone>diamond-13"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_card-home-nav.css" crc="185558724" ref="phone>club-10:phone>diamond-13:phone>diamond-3:phone>diamond-10:phone>diamond:phone>club:phone>club-6:phone>diamond-6:phone>club-8:phone>spade:phone>club-11:phone>heart:phone>club-7:phone>club-12:phone>club-5:phone>club-4:phone>club-3:phone>diamond-5:phone>club-9:phone>diamond-9:phone>diamond-11:phone>diamond-2:phone>club-2:phone>diamond-4:phone>club-a:phone>index:phone>diamond-7:phone>diamond-a:phone>diamond-8:phone>diamond-12:phone>club-13"/>
+      <file name="club-10.css" crc="3818307818" ref="phone>club-10"/>
+      <file name="diamond-13.css" crc="4177017999" ref="phone>diamond-13"/>
+      <file name="diamond-3.css" crc="451689682" ref="phone>diamond-3"/>
+      <file name="diamond-10.css" crc="237995349" ref="phone>diamond-10"/>
+      <file name="spade-1.css" crc="402355699" ref="phone>spade-1"/>
+      <file name="diamond.css" crc="3881197766" ref="phone>diamond"/>
+      <file name="club.css" crc="4203749129" ref="phone>club"/>
+      <file name="club-6.css" crc="4280713333" ref="phone>club-6"/>
+      <file name="diamond-6.css" crc="4146926121" ref="phone>diamond-6"/>
+      <file name="club-8.css" crc="510042546" ref="phone>club-8"/>
+      <file name="spade.css" crc="276436240" ref="phone>spade"/>
+      <file name="club-11.css" crc="15408629" ref="phone>club-11"/>
+      <file name="heart.css" crc="276436240" ref="phone>heart"/>
+      <file name="club-7.css" crc="379504908" ref="phone>club-7"/>
+      <file name="club-12.css" crc="494374196" ref="phone>club-12"/>
+      <file name="club-5.css" crc="11110303" ref="phone>club-5"/>
+      <file name="club-4.css" crc="3853784331" ref="phone>club-4"/>
+      <file name="club-3.css" crc="126163303" ref="phone>club-3"/>
+      <file name="diamond-5.css" crc="193254486" ref="phone>diamond-5"/>
+      <file name="club-9.css" crc="73301804" ref="phone>club-9"/>
+      <file name="diamond-9.css" crc="532725600" ref="phone>diamond-9"/>
+      <file name="diamond-11.css" crc="27706854" ref="phone>diamond-11"/>
+      <file name="diamond-2.css" crc="506013609" ref="phone>diamond-2"/>
+      <file name="club-2.css" crc="328198094" ref="phone>club-2"/>
+      <file name="diamond-4.css" crc="181363620" ref="phone>diamond-4"/>
+      <file name="club-a.css" crc="484056165" ref="phone>club-a"/>
+      <file name="index.css" crc="3944876486" ref="phone>index"/>
+      <file name="diamond-7.css" crc="106387552" ref="phone>diamond-7"/>
+      <file name="untitled-30.css" crc="402355699" ref="phone>untitled-30"/>
+      <file name="diamond-a.css" crc="235347144" ref="phone>diamond-a"/>
+      <file name="diamond-8.css" crc="256112397" ref="phone>diamond-8"/>
+      <file name="diamond-12.css" crc="244457549" ref="phone>diamond-12"/>
+      <file name="club-13.css" crc="110604611" ref="phone>club-13"/>
+    </folder>
+    <file name="spade.html" crc="16329539" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="heart.html" crc="3820833880" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="diamond.html" crc="3834184676" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club.html" crc="19121445" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="spade-1.html" crc="270182961" seo="true" mt="1495413177245" redirect="false"/>
+    <file name="untitled-30.html" crc="3795892053" seo="true" mt="1495413177246" redirect="false"/>
+    <file name="club-a.html" crc="120537753" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-2.html" crc="3910905430" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-3.html" crc="3918045065" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-4.html" crc="202348458" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-5.html" crc="3951236724" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-7.html" crc="364868563" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-8.html" crc="16460990" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-6.html" crc="4251438936" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-9.html" crc="3774981219" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-12.html" crc="3863224730" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-11.html" crc="4062002138" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-10.html" crc="4005715565" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="club-13.html" crc="3836768800" seo="true" mt="1495418972606" redirect="true"/>
+    <file name="index.html" crc="212250759" seo="true" mt="1495421122966" redirect="true"/>
+    <file name="diamond-a.html" crc="3927643835" seo="true" mt="1495420683893" redirect="true"/>
+    <file name="diamond-2.html" crc="3838063529" seo="true" mt="1495420683894" redirect="true"/>
+    <file name="diamond-3.html" crc="17446438" seo="true" mt="1495420781386" redirect="true"/>
+    <file name="diamond-4.html" crc="290603976" seo="true" mt="1495420809297" redirect="true"/>
+    <file name="diamond-5.html" crc="16808690" seo="true" mt="1495420826028" redirect="true"/>
+    <file name="diamond-7.html" crc="4009543029" seo="true" mt="1495420860694" redirect="true"/>
+    <file name="diamond-6.html" crc="4144297563" seo="true" mt="1495420847290" redirect="true"/>
+    <file name="diamond-8.html" crc="307821829" seo="true" mt="1495420877341" redirect="true"/>
+    <file name="diamond-9.html" crc="137382116" seo="true" mt="1495420719754" redirect="true"/>
+    <file name="diamond-10.html" crc="372065829" seo="true" mt="1495420697560" redirect="true"/>
+    <file name="diamond-12.html" crc="450476022" seo="true" mt="1495420683900" redirect="true"/>
+    <file name="diamond-11.html" crc="478102873" seo="true" mt="1495420683900" redirect="true"/>
+    <file name="diamond-13.html" crc="173840342" seo="true" mt="1495420683901" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4145053916" seo="true" mt="1495421174223" redirect="true"/>
+</manifest>
