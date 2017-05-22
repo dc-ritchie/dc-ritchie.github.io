@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495157164633">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495413622391">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="927421" ref="index"/>
@@ -35,6 +35,7 @@
       <caption webpage="club-a" alt=""/>
     </file>
     <file name="club 1b_poster_.png" crc="382922559" ref="phone>club-a"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>club-a:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-6"/>
     <file name="clubasset-2.svg" crc="3805155924" seo="true" ref="phone>club-2">
       <caption webpage="club-2" alt=""/>
     </file>
@@ -134,47 +135,47 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="club.css" crc="4139712312" ref="phone>club"/>
-      <file name="club-11.css" crc="3904465299" ref="phone>club-11"/>
-      <file name="club-5.css" crc="4141559945" ref="phone>club-5"/>
-      <file name="untitled-30.css" crc="4127422730" ref="phone>untitled-30"/>
-      <file name="club-10.css" crc="62926001" ref="phone>club-10"/>
-      <file name="club-7.css" crc="311017307" ref="phone>club-7"/>
-      <file name="spade-1.css" crc="4127422730" ref="phone>spade-1"/>
-      <file name="club-13.css" crc="4060327802" ref="phone>club-13"/>
-      <file name="club-8.css" crc="28741745" ref="phone>club-8"/>
-      <file name="club-a.css" crc="397080071" ref="phone>club-a"/>
-      <file name="index.css" crc="1454663" ref="phone>index"/>
-      <file name="spade.css" crc="4127422730" ref="phone>spade"/>
-      <file name="club-6.css" crc="254388700" ref="phone>club-6"/>
-      <file name="club-2.css" crc="221653170" ref="phone>club-2"/>
-      <file name="heart.css" crc="4127422730" ref="phone>heart"/>
-      <file name="club-9.css" crc="4087769554" ref="phone>club-9"/>
-      <file name="club-3.css" crc="344166948" ref="phone>club-3"/>
-      <file name="diamond.css" crc="4127422730" ref="phone>diamond"/>
-      <file name="club-12.css" crc="178011269" ref="phone>club-12"/>
-      <file name="club-4.css" crc="4076744713" ref="phone>club-4"/>
+      <file name="club-4.css" crc="3784873432" ref="phone>club-4"/>
+      <file name="club-3.css" crc="366630586" ref="phone>club-3"/>
+      <file name="club.css" crc="3760365026" ref="phone>club"/>
+      <file name="club-13.css" crc="383174233" ref="phone>club-13"/>
+      <file name="club-9.css" crc="4268123722" ref="phone>club-9"/>
+      <file name="diamond.css" crc="402355699" ref="phone>diamond"/>
+      <file name="club-10.css" crc="411181892" ref="phone>club-10"/>
+      <file name="club-11.css" crc="352782646" ref="phone>club-11"/>
+      <file name="club-6.css" crc="4186054712" ref="phone>club-6"/>
+      <file name="index.css" crc="4187168832" ref="phone>index"/>
+      <file name="club-2.css" crc="239890896" ref="phone>club-2"/>
+      <file name="club-8.css" crc="170094340" ref="phone>club-8"/>
+      <file name="spade.css" crc="402355699" ref="phone>spade"/>
+      <file name="club-a.css" crc="273625187" ref="phone>club-a"/>
+      <file name="heart.css" crc="402355699" ref="phone>heart"/>
+      <file name="club-7.css" crc="450134747" ref="phone>club-7"/>
+      <file name="club-12.css" crc="4066453862" ref="phone>club-12"/>
+      <file name="untitled-30.css" crc="402355699" ref="phone>untitled-30"/>
+      <file name="club-5.css" crc="281567278" ref="phone>club-5"/>
+      <file name="spade-1.css" crc="402355699" ref="phone>spade-1"/>
     </folder>
-    <file name="spade.html" crc="511205417" seo="true" mt="1495157132291" redirect="false"/>
-    <file name="heart.html" crc="4269693589" seo="true" mt="1495157132291" redirect="false"/>
-    <file name="diamond.html" crc="47921155" seo="true" mt="1495157132291" redirect="false"/>
-    <file name="club.html" crc="287116685" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="spade-1.html" crc="4204038483" seo="true" mt="1495157132291" redirect="false"/>
-    <file name="untitled-30.html" crc="4156126735" seo="true" mt="1495157132291" redirect="false"/>
-    <file name="club-a.html" crc="21376678" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-2.html" crc="3905480989" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-3.html" crc="377898072" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-4.html" crc="103551014" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-5.html" crc="4108672899" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-7.html" crc="3797475792" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-8.html" crc="4186426130" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-6.html" crc="4190965352" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-9.html" crc="189294569" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-12.html" crc="532363440" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-11.html" crc="66418840" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-10.html" crc="521150450" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="club-13.html" crc="500615972" seo="true" mt="1495157132291" redirect="true"/>
-    <file name="index.html" crc="4251923875" seo="true" mt="1495157132291" redirect="true"/>
+    <file name="spade.html" crc="4121061938" seo="true" mt="1495413177241" redirect="false"/>
+    <file name="heart.html" crc="4185566930" seo="true" mt="1495413177242" redirect="false"/>
+    <file name="diamond.html" crc="3958466699" seo="true" mt="1495413177243" redirect="false"/>
+    <file name="club.html" crc="218940704" seo="true" mt="1495413177244" redirect="true"/>
+    <file name="spade-1.html" crc="270182961" seo="true" mt="1495413177245" redirect="false"/>
+    <file name="untitled-30.html" crc="3795892053" seo="true" mt="1495413177246" redirect="false"/>
+    <file name="club-a.html" crc="4012614585" seo="true" mt="1495413472188" redirect="true"/>
+    <file name="club-2.html" crc="57513143" seo="true" mt="1495413367952" redirect="true"/>
+    <file name="club-3.html" crc="3939383169" seo="true" mt="1495413500167" redirect="true"/>
+    <file name="club-4.html" crc="506521782" seo="true" mt="1495413516182" redirect="true"/>
+    <file name="club-5.html" crc="3773260482" seo="true" mt="1495413533625" redirect="true"/>
+    <file name="club-7.html" crc="4122577001" seo="true" mt="1495413565845" redirect="true"/>
+    <file name="club-8.html" crc="4057108647" seo="true" mt="1495413177260" redirect="true"/>
+    <file name="club-6.html" crc="303834490" seo="true" mt="1495413549483" redirect="true"/>
+    <file name="club-9.html" crc="3792241116" seo="true" mt="1495413177262" redirect="true"/>
+    <file name="club-12.html" crc="136359260" seo="true" mt="1495413177263" redirect="true"/>
+    <file name="club-11.html" crc="66738496" seo="true" mt="1495413177264" redirect="true"/>
+    <file name="club-10.html" crc="511659102" seo="true" mt="1495413177265" redirect="true"/>
+    <file name="club-13.html" crc="468795383" seo="true" mt="1495413177266" redirect="true"/>
+    <file name="index.html" crc="3817367762" seo="true" mt="1495413177269" redirect="true"/>
   </folder>
-  <file name="index.html" crc="442063385" seo="true" mt="1495150533566" redirect="true"/>
+  <file name="index.html" crc="4126889276" seo="true" mt="1495150533566" redirect="true"/>
 </manifest>
