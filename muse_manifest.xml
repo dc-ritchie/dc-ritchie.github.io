@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495421232015">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://dc-ritchie.github.io" resolutions="1x" timestamp="1495424727480">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="355990711" ref="index"/>
@@ -182,24 +182,11 @@
       <caption webpage="club-a" alt=""/>
     </file>
     <file name="clubasset 68b_poster_.png" crc="4149654795" ref="phone>club-a"/>
-    <file name="club-1b.svg" crc="3919000097" seo="true" ref="phone>club-a:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13">
+    <file name="club-1b.svg" crc="3919000097" seo="true" ref="phone>club-a">
       <caption webpage="club-a" alt=""/>
-      <caption webpage="diamond-3" alt=""/>
-      <caption webpage="diamond-7" alt=""/>
-      <caption webpage="diamond-5" alt=""/>
-      <caption webpage="diamond-4" alt=""/>
-      <caption webpage="diamond-a" alt=""/>
-      <caption webpage="diamond-8" alt=""/>
-      <caption webpage="diamond-6" alt=""/>
-      <caption webpage="diamond-2" alt=""/>
-      <caption webpage="diamond-12" alt=""/>
-      <caption webpage="diamond-13" alt=""/>
-      <caption webpage="diamond-11" alt=""/>
-      <caption webpage="diamond-10" alt=""/>
-      <caption webpage="diamond-9" alt=""/>
     </file>
     <file name="club 1b_poster_.png" crc="382922559" ref="phone>club-a"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>club-a:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13:phone>diamond-a:phone>diamond-2:phone>diamond-3:phone>diamond-4:phone>diamond-5:phone>diamond-7:phone>diamond-6:phone>diamond-8:phone>diamond-9:phone>diamond-10:phone>diamond-12:phone>diamond-11:phone>diamond-13"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>club-a:phone>club-3:phone>club-4:phone>club-5:phone>club-7:phone>club-8:phone>club-6:phone>club-9:phone>club-12:phone>club-11:phone>club-10:phone>club-13"/>
     <file name="clubasset-2.svg" crc="3805155924" seo="true" ref="phone>club-2">
       <caption webpage="club-2" alt=""/>
     </file>
@@ -301,67 +288,119 @@
       <caption webpage="diamond-a" alt=""/>
     </file>
     <file name="diamasset 40_poster_.png" crc="3865548998" ref="phone>diamond-a"/>
+    <file name="diamonds-1.svg" crc="4114554445" seo="true" ref="phone>diamond-a">
+      <caption webpage="diamond-a" alt=""/>
+    </file>
+    <file name="diamonds 1_poster_.png" crc="3853679888" ref="phone>diamond-a"/>
     <file name="diamasset-41.svg" crc="156754080" seo="true" ref="phone>diamond-2">
       <caption webpage="diamond-2" alt=""/>
     </file>
     <file name="diamasset 41_poster_.png" crc="4219420290" ref="phone>diamond-2"/>
+    <file name="diamonds-2.svg" crc="74674382" seo="true" ref="phone>diamond-2">
+      <caption webpage="diamond-2" alt=""/>
+    </file>
+    <file name="diamonds 2_poster_.png" crc="4005027699" ref="phone>diamond-2"/>
     <file name="diamasset-42.svg" crc="4235645005" seo="true" ref="phone>diamond-3">
       <caption webpage="diamond-3" alt=""/>
     </file>
     <file name="diamasset 42_poster_.png" crc="353298222" ref="phone>diamond-3"/>
+    <file name="diamonds-3.svg" crc="110757353" seo="true" ref="phone>diamond-3">
+      <caption webpage="diamond-3" alt=""/>
+    </file>
+    <file name="diamonds 3_poster_.png" crc="3924739564" ref="phone>diamond-3"/>
     <file name="diamasset-43.svg" crc="4018698390" seo="true" ref="phone>diamond-4">
       <caption webpage="diamond-4" alt=""/>
     </file>
     <file name="diamasset 43_poster_.png" crc="135463209" ref="phone>diamond-4"/>
+    <file name="diamonds-4b.svg" crc="3982696944" seo="true" ref="phone>diamond-4">
+      <caption webpage="diamond-4" alt=""/>
+    </file>
+    <file name="diamonds 4b_poster_.png" crc="3904121379" ref="phone>diamond-4"/>
     <file name="diamasset-44.svg" crc="4126087903" seo="true" ref="phone>diamond-5">
       <caption webpage="diamond-5" alt=""/>
     </file>
     <file name="diamasset 44_poster_.png" crc="4236959970" ref="phone>diamond-5"/>
+    <file name="diamonds-5.svg" crc="3968437610" seo="true" ref="phone>diamond-5">
+      <caption webpage="diamond-5" alt=""/>
+    </file>
+    <file name="diamonds 5_poster_.png" crc="4060954844" ref="phone>diamond-5"/>
     <file name="diamasset-46.svg" crc="4062705047" seo="true" ref="phone>diamond-7">
       <caption webpage="diamond-7" alt=""/>
     </file>
     <file name="diamasset 46_poster_.png" crc="4179219583" ref="phone>diamond-7"/>
+    <file name="diamonds-7.svg" crc="278254481" seo="true" ref="phone>diamond-7">
+      <caption webpage="diamond-7" alt=""/>
+    </file>
+    <file name="diamonds 7_poster_.png" crc="4207574073" ref="phone>diamond-7"/>
     <file name="diamasset-45.svg" crc="375201438" seo="true" ref="phone>diamond-6">
       <caption webpage="diamond-6" alt=""/>
     </file>
     <file name="diamasset 45_poster_.png" crc="292594129" ref="phone>diamond-6"/>
+    <file name="diamonds-6.svg" crc="3829148957" seo="true" ref="phone>diamond-6">
+      <caption webpage="diamond-6" alt=""/>
+    </file>
+    <file name="diamonds 6_poster_.png" crc="107704749" ref="phone>diamond-6"/>
     <file name="diamasset-47.svg" crc="490259502" seo="true" ref="phone>diamond-8">
       <caption webpage="diamond-8" alt=""/>
     </file>
     <file name="diamasset 47_poster_.png" crc="4113134429" ref="phone>diamond-8"/>
+    <file name="diamonds-8.svg" crc="249729763" seo="true" ref="phone>diamond-8">
+      <caption webpage="diamond-8" alt=""/>
+    </file>
+    <file name="diamonds 8_poster_.png" crc="1831655" ref="phone>diamond-8"/>
     <file name="diamasset-48.svg" crc="4120853408" seo="true" ref="phone>diamond-9">
       <caption webpage="diamond-9" alt=""/>
     </file>
     <file name="diamasset 48_poster_.png" crc="4219303736" ref="phone>diamond-9"/>
+    <file name="diamonds-9b.svg" crc="518891151" seo="true" ref="phone>diamond-9">
+      <caption webpage="diamond-9" alt=""/>
+    </file>
+    <file name="diamonds 9b_poster_.png" crc="165868206" ref="phone>diamond-9"/>
     <file name="diamasset-49.svg" crc="3821466259" seo="true" ref="phone>diamond-10">
       <caption webpage="diamond-10" alt=""/>
     </file>
     <file name="diamasset 49_poster_.png" crc="408822771" ref="phone>diamond-10"/>
+    <file name="diamonds-10.svg" crc="4159853576" seo="true" ref="phone>diamond-10">
+      <caption webpage="diamond-10" alt=""/>
+    </file>
+    <file name="diamonds 10_poster_.png" crc="369616980" ref="phone>diamond-10"/>
     <file name="diamasset-51.svg" crc="3827756914" seo="true" ref="phone>diamond-12">
       <caption webpage="diamond-12" alt=""/>
     </file>
     <file name="diamasset 51_poster_.png" crc="4261713284" ref="phone>diamond-12"/>
+    <file name="diamonds-12.svg" crc="16440063" seo="true" ref="phone>diamond-12">
+      <caption webpage="diamond-12" alt=""/>
+    </file>
+    <file name="diamonds 12_poster_.png" crc="15799610" ref="phone>diamond-12"/>
     <file name="diamasset-50.svg" crc="4226218029" seo="true" ref="phone>diamond-11">
       <caption webpage="diamond-11" alt=""/>
     </file>
     <file name="diamasset 50_poster_.png" crc="4049775125" ref="phone>diamond-11"/>
+    <file name="diamonds-11.svg" crc="110883702" seo="true" ref="phone>diamond-11">
+      <caption webpage="diamond-11" alt=""/>
+    </file>
+    <file name="diamonds 11_poster_.png" crc="444575016" ref="phone>diamond-11"/>
     <file name="diamasset-52.svg" crc="321272963" seo="true" ref="phone>diamond-13">
       <caption webpage="diamond-13" alt=""/>
     </file>
     <file name="diamasset 52_poster_.png" crc="4138264469" ref="phone>diamond-13"/>
+    <file name="diamonds-13.svg" crc="72150136" seo="true" ref="phone>diamond-13">
+      <caption webpage="diamond-13" alt=""/>
+    </file>
+    <file name="diamonds 13_poster_.png" crc="193272638" ref="phone>diamond-13"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_card-home-nav.css" crc="185558724" ref="phone>club-10:phone>diamond-13:phone>diamond-3:phone>diamond-10:phone>diamond:phone>club:phone>club-6:phone>diamond-6:phone>club-8:phone>spade:phone>club-11:phone>heart:phone>club-7:phone>club-12:phone>club-5:phone>club-4:phone>club-3:phone>diamond-5:phone>club-9:phone>diamond-9:phone>diamond-11:phone>diamond-2:phone>club-2:phone>diamond-4:phone>club-a:phone>index:phone>diamond-7:phone>diamond-a:phone>diamond-8:phone>diamond-12:phone>club-13"/>
       <file name="club-10.css" crc="3818307818" ref="phone>club-10"/>
-      <file name="diamond-13.css" crc="4177017999" ref="phone>diamond-13"/>
-      <file name="diamond-3.css" crc="451689682" ref="phone>diamond-3"/>
-      <file name="diamond-10.css" crc="237995349" ref="phone>diamond-10"/>
+      <file name="diamond-13.css" crc="505015976" ref="phone>diamond-13"/>
+      <file name="diamond-3.css" crc="331541119" ref="phone>diamond-3"/>
+      <file name="diamond-10.css" crc="519970139" ref="phone>diamond-10"/>
       <file name="spade-1.css" crc="402355699" ref="phone>spade-1"/>
       <file name="diamond.css" crc="3881197766" ref="phone>diamond"/>
       <file name="club.css" crc="4203749129" ref="phone>club"/>
       <file name="club-6.css" crc="4280713333" ref="phone>club-6"/>
-      <file name="diamond-6.css" crc="4146926121" ref="phone>diamond-6"/>
+      <file name="diamond-6.css" crc="3777752377" ref="phone>diamond-6"/>
       <file name="club-8.css" crc="510042546" ref="phone>club-8"/>
       <file name="spade.css" crc="276436240" ref="phone>spade"/>
       <file name="club-11.css" crc="15408629" ref="phone>club-11"/>
@@ -371,20 +410,20 @@
       <file name="club-5.css" crc="11110303" ref="phone>club-5"/>
       <file name="club-4.css" crc="3853784331" ref="phone>club-4"/>
       <file name="club-3.css" crc="126163303" ref="phone>club-3"/>
-      <file name="diamond-5.css" crc="193254486" ref="phone>diamond-5"/>
+      <file name="diamond-5.css" crc="102031561" ref="phone>diamond-5"/>
       <file name="club-9.css" crc="73301804" ref="phone>club-9"/>
-      <file name="diamond-9.css" crc="532725600" ref="phone>diamond-9"/>
-      <file name="diamond-11.css" crc="27706854" ref="phone>diamond-11"/>
-      <file name="diamond-2.css" crc="506013609" ref="phone>diamond-2"/>
+      <file name="diamond-9.css" crc="3993205488" ref="phone>diamond-9"/>
+      <file name="diamond-11.css" crc="4164280542" ref="phone>diamond-11"/>
+      <file name="diamond-2.css" crc="3914494672" ref="phone>diamond-2"/>
       <file name="club-2.css" crc="328198094" ref="phone>club-2"/>
-      <file name="diamond-4.css" crc="181363620" ref="phone>diamond-4"/>
+      <file name="diamond-4.css" crc="401906503" ref="phone>diamond-4"/>
       <file name="club-a.css" crc="484056165" ref="phone>club-a"/>
       <file name="index.css" crc="3944876486" ref="phone>index"/>
-      <file name="diamond-7.css" crc="106387552" ref="phone>diamond-7"/>
+      <file name="diamond-7.css" crc="63374030" ref="phone>diamond-7"/>
       <file name="untitled-30.css" crc="402355699" ref="phone>untitled-30"/>
-      <file name="diamond-a.css" crc="235347144" ref="phone>diamond-a"/>
-      <file name="diamond-8.css" crc="256112397" ref="phone>diamond-8"/>
-      <file name="diamond-12.css" crc="244457549" ref="phone>diamond-12"/>
+      <file name="diamond-a.css" crc="4259009624" ref="phone>diamond-a"/>
+      <file name="diamond-8.css" crc="4215729528" ref="phone>diamond-8"/>
+      <file name="diamond-12.css" crc="4114392462" ref="phone>diamond-12"/>
       <file name="club-13.css" crc="110604611" ref="phone>club-13"/>
     </folder>
     <file name="spade.html" crc="16329539" seo="true" mt="1495418972606" redirect="true"/>
@@ -406,20 +445,20 @@
     <file name="club-11.html" crc="4062002138" seo="true" mt="1495418972606" redirect="true"/>
     <file name="club-10.html" crc="4005715565" seo="true" mt="1495418972606" redirect="true"/>
     <file name="club-13.html" crc="3836768800" seo="true" mt="1495418972606" redirect="true"/>
-    <file name="index.html" crc="212250759" seo="true" mt="1495421122966" redirect="true"/>
-    <file name="diamond-a.html" crc="3927643835" seo="true" mt="1495420683893" redirect="true"/>
-    <file name="diamond-2.html" crc="3838063529" seo="true" mt="1495420683894" redirect="true"/>
-    <file name="diamond-3.html" crc="17446438" seo="true" mt="1495420781386" redirect="true"/>
-    <file name="diamond-4.html" crc="290603976" seo="true" mt="1495420809297" redirect="true"/>
-    <file name="diamond-5.html" crc="16808690" seo="true" mt="1495420826028" redirect="true"/>
-    <file name="diamond-7.html" crc="4009543029" seo="true" mt="1495420860694" redirect="true"/>
-    <file name="diamond-6.html" crc="4144297563" seo="true" mt="1495420847290" redirect="true"/>
-    <file name="diamond-8.html" crc="307821829" seo="true" mt="1495420877341" redirect="true"/>
-    <file name="diamond-9.html" crc="137382116" seo="true" mt="1495420719754" redirect="true"/>
-    <file name="diamond-10.html" crc="372065829" seo="true" mt="1495420697560" redirect="true"/>
-    <file name="diamond-12.html" crc="450476022" seo="true" mt="1495420683900" redirect="true"/>
-    <file name="diamond-11.html" crc="478102873" seo="true" mt="1495420683900" redirect="true"/>
-    <file name="diamond-13.html" crc="173840342" seo="true" mt="1495420683901" redirect="true"/>
+    <file name="index.html" crc="16455451" seo="true" mt="1495421122966" redirect="true"/>
+    <file name="diamond-a.html" crc="3805652639" seo="true" mt="1495424222766" redirect="true"/>
+    <file name="diamond-2.html" crc="500575920" seo="true" mt="1495424248149" redirect="true"/>
+    <file name="diamond-3.html" crc="350584514" seo="true" mt="1495424265847" redirect="true"/>
+    <file name="diamond-4.html" crc="271234676" seo="true" mt="1495424581361" redirect="true"/>
+    <file name="diamond-5.html" crc="3962656730" seo="true" mt="1495424357609" redirect="true"/>
+    <file name="diamond-7.html" crc="155617234" seo="true" mt="1495424405610" redirect="true"/>
+    <file name="diamond-6.html" crc="4120211953" seo="true" mt="1495424376465" redirect="true"/>
+    <file name="diamond-8.html" crc="3930414555" seo="true" mt="1495424450027" redirect="true"/>
+    <file name="diamond-9.html" crc="4022465541" seo="true" mt="1495424561683" redirect="true"/>
+    <file name="diamond-10.html" crc="3963575364" seo="true" mt="1495424622163" redirect="true"/>
+    <file name="diamond-12.html" crc="154866878" seo="true" mt="1495424654382" redirect="true"/>
+    <file name="diamond-11.html" crc="4014569589" seo="true" mt="1495424641953" redirect="true"/>
+    <file name="diamond-13.html" crc="391151642" seo="true" mt="1495424670829" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4145053916" seo="true" mt="1495421174223" redirect="true"/>
+  <file name="index.html" crc="4102435417" seo="true" mt="1495421174223" redirect="true"/>
 </manifest>
